@@ -24,4 +24,3 @@ production:
 
 ```npm run start``` run in production more, not look for env.yaml
 
-MAKE SURE TO JOIN THE SLACK AND DISCORD COMMUNITIES AT DEVNURSERY.COM
